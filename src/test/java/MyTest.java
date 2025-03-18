@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class MyTest {
+import org.junit.Test;
+
+public class MyTest {
+    @Test
+    public void MyTesting(){
+        System.out.println("Hello world!");
+    }
 }
