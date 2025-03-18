@@ -18,6 +18,10 @@ mvn clean install
 
 and RUN !
 
+```
+mvn compile
+```
+
 
 
 ### 📌 **Compilation des tests unitaires avec JUnit**
