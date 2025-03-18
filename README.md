@@ -72,7 +72,7 @@ Ajoutez cette dépendance :
 mvn checkstyle:check
 ```
 
-2. Génération d'un rapport HTML des erreurs :
+2. Génération d'un rapport HTML des erreurs sous forme d'un tableau :
 ```sh
 mvn checkstyle:checkstyle
 ```
