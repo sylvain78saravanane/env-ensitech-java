@@ -49,7 +49,7 @@ Dans IntelliJ IDEA :
 1. **File > Project Structure > Libraries**
 2. Cliquez sur **New Project Library**
 3. **Ajoutez la bibliothèque JavaFX** (Téléchargez-la si nécessaire : [Gluon JavaFX](https://gluonhq.com/products/javafx/))
-
+4. Création d'un ficher .fxml, qui contient la structure de l'interface graphique de notre application
 
 ## 3. Vérification du code avec Checkstyle
 
